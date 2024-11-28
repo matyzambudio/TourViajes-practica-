@@ -1,0 +1,12 @@
+.carro{
+    display: flex;
+    justify-content: space-evenly;
+}
+.viaje{
+    display: inline-flex;
+    justify-content: space-evenly;
+    color: white;
+}
+ h1,h2{
+    font-size: 20px;
+ }

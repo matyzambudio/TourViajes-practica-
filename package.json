@@ -1,0 +1,19 @@
+{
+  "name": "multienrutamiento",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "rsbuild dev --open",
+    "build": "rsbuild build",
+    "preview": "rsbuild preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0"
+  },
+  "devDependencies": {
+    "@rsbuild/core": "^1.0.18",
+    "@rsbuild/plugin-react": "^1.0.5"
+  }
+}

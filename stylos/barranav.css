@@ -1,0 +1,18 @@
+nav{
+    margin: 10px;
+    padding:2%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    color: rgb(250, 249, 249);
+    background:linear-gradient(black,rgb(80, 80, 247));
+    box-shadow: 2px 2px 3px rgb(7, 4, 213);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.enlace{
+    text-decoration: none;
+    color: white;
+    font-family: cursive;
+}
